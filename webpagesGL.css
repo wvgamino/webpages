@@ -1,6 +1,6 @@
 /*
  *Name: [First Last]
- *UnityID: [unityID]
+ *UnityID: wvgamino
  *Date: [Date Completed]
  *Assignment: [Assignment Name]
  *Description: [Assignment Description]
@@ -9,11 +9,11 @@
 p {
     font-family: Times;
     font-size: 16px;
-    color: #30d5c8;
+    color: #DECAFF;
 }
 
 .table-border {
-    border: 1px solid #30d5c8;
+    border: 1px solid #DECAFF;
 }
 
 #photo-resize {
